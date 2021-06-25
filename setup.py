@@ -121,15 +121,14 @@ setup(
     install_requires=[
         'beautifulsoup4==4.9.3',
         'Cython>=0.21.1',
-        'ftfy>=4.1.0,<5.0.0',
+        'ftfy',
         'lxml',
         'numpy>=1.19.0',
         'scikit-learn>=0.22.0',
         'scipy>=0.17.0',
         'sklearn-crfsuite==0.3.6',
         'dateparser==1.0.0',
-        'joblib==0.17.0',
-        'catboost==0.24.2',
+        'joblib',
         'courlan==0.2.3',
         'htmldate==0.7.2'
     ]
