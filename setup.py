@@ -129,7 +129,7 @@ setup(
         'sklearn-crfsuite==0.3.6',
         'dateparser==1.0.0',
         'joblib',
-        'courlan==0.2.3',
-        'htmldate==0.7.2'
+        'courlan',
+        'htmldate'
     ]
 )
