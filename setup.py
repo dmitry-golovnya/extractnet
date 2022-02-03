@@ -127,7 +127,7 @@ setup(
         'scikit-learn>=0.22.0',
         'scipy>=0.17.0',
         'sklearn-crfsuite==0.3.6',
-        'dateparser==1.0.0',
+        'dateparser',
         'joblib',
         'courlan',
         'htmldate'
